@@ -10,10 +10,17 @@
     <atom:link href="https://BroKenDom1013.github.io/categories/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Willy的第一篇文章</title>
-      <link>https://BroKenDom1013.github.io/blog/test/</link>
+      <link>https://BroKenDom1013.github.io/blog/first-post/</link>
       <pubDate>Mon, 08 Jan 2024 12:06:47 +0800</pubDate>
-      <guid>https://BroKenDom1013.github.io/blog/test/</guid>
+      <guid>https://BroKenDom1013.github.io/blog/first-post/</guid>
       <description>Hello&#xA;測試 2024/01/05 Hello World&#xA;我是Willy&#xA;六級標題 我是Willy 我喜歡學習&#xA;Markdown Learning Python Yes 123 I&amp;rsquo;m back HELLOOO</description>
+    </item>
+    <item>
+      <title>Willy的第二篇文章</title>
+      <link>https://BroKenDom1013.github.io/blog/second-post/</link>
+      <pubDate>Mon, 08 Jan 2024 12:06:47 +0800</pubDate>
+      <guid>https://BroKenDom1013.github.io/blog/second-post/</guid>
+      <description>第二篇文章</description>
     </item>
   </channel>
 </rss>
